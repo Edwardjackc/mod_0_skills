@@ -1,0 +1,23 @@
+Class: Refine 
+
+Delivery my order
+Asap (Float) Date, 
+Time(Float)
+Method: Deliver "today" at "time"
+
+Rating 
+1 star (Boolean) you can select how many stars you want and it filters the results according the the selection 
+2 star (Boolean) you can select how many stars you want and it filters the results according the the selection
+3 star (Boolean) you can select how many stars you want and it filters the results according the the selection
+4 star (Boolean) you can select how many stars you want and it filters the results according the the selection
+5 star (Boolean) you can select how many stars you want and it filters the results according the the selection
+
+Method: Respectfully the ability to select;  1 star, 2 star, 3 star, 4 star, 5 star & up "buttons"
+
+Price 
+$$$$$
+$$$$
+$$$
+$$
+$
+Method: Respectfully the ability to select; $$$$$ button, $$$$ button, $$$ button, $$ button , $ button
