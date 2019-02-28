@@ -12,4 +12,3 @@ Method:You can click these which brings you to the menu, Add to bag, scroll up, 
 Sushi Den (array) 
 Method: You can click these which brings you to the menu, Add to bag, scroll up, scroll down , quantity
 
-change 
