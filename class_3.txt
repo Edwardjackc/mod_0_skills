@@ -13,4 +13,4 @@ Attributes: Item 3 cost  (Float)
 Method : Empty Bag 
 Select Tip 
 Continue to Check out 
-Add more items 
+Add more item's
