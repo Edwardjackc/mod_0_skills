@@ -1,0 +1,16 @@
+Class: Bag 
+(Assuming items are in it )
+
+Attributes: Item 1 (string)
+Attributes: Item 2 (string)
+Attributes: Item 3 (string)
+
+Attributes: Item 1 cost  (Float)
+Attributes: Item 2 cost  (Float)
+Attributes: Item 3 cost  (Float)
+
+
+Method : Empty Bag 
+Select Tip 
+Continue to Check out 
+Add more item's
